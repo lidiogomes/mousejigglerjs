@@ -1,0 +1,34 @@
+{
+  "name": "mousejigglerjs",
+  "version": "1.0.0",
+  "description": "A Node.js mouse jiggler written in javascript\u001b[D\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidiogomes/mousejigglerjs.git"
+  },
+  "keywords": [
+    "Node.js",
+    "node.js",
+    "node",
+    "javascript",
+    "Javascript",
+    "Nut.js",
+    "mouse",
+    "jiggler",
+    "javascript"
+  ],
+  "author": "Lídio Gomes",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lidiogomes/mousejigglerjs/issues"
+  },
+  "homepage": "https://github.com/lidiogomes/mousejigglerjs#readme",
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.0.0"
+  }
+}
