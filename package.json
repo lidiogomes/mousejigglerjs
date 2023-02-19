@@ -30,5 +30,8 @@
   "homepage": "https://github.com/lidiogomes/mousejigglerjs#readme",
   "dependencies": {
     "@nut-tree/nut-js": "^3.0.0"
+  },
+  "bin": {
+    "mousejiggler": "./index.js"
   }
 }

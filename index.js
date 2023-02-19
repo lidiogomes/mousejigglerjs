@@ -1,3 +1,4 @@
+":" //#;exec /usr/bin/env node --input-type=module - "$@" < "$0"
 import { mouse, getActiveWindow, straightTo, Point, screen } from '@nut-tree/nut-js';
 import { type, speed } from './lib/initParams.js'
 
