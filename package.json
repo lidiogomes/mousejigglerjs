@@ -29,7 +29,9 @@
   },
   "homepage": "https://github.com/lidiogomes/mousejigglerjs#readme",
   "dependencies": {
-    "@nut-tree/nut-js": "^3.0.0"
+    "@nut-tree/nut-js": "^3.0.0",
+    "figlet": "^1.5.2",
+    "yargs": "^17.7.0"
   },
   "bin": {
     "mousejiggler": "./index.js"
