@@ -14,7 +14,6 @@
 > A mouse jiggler written in javascript to move your mouse and the computer doesn't fall asleep.
 
 ## Requirements
----
 
 Use the package manager section to install nodejs in different operating systems
 
@@ -59,7 +58,6 @@ npm --version
 ```
 
 ## Install
----
 
 ```
 $ npm install -g mousejigglerjs
@@ -87,7 +85,7 @@ $ mousejiggler --logo-off
 ```
 
 ## Commands
----
+
 | Command    | Alias | Description                 |
 |------------|-------|-----------------------------|
 | --version  |       | Show version number         |
@@ -96,7 +94,7 @@ $ mousejiggler --logo-off
 | --help     |       | Show help                   |
 
 ## Notes
----
+
 The time it takes the mouse to move is calculated in milliseconds. If you set a time below 5000ms and accidentally click outside the terminal, you may have trouble terminating the mousejigglerjs. 
 By default time = 10000.
 
