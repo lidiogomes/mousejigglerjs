@@ -1,7 +1,7 @@
 {
   "name": "mousejigglerjs",
   "version": "1.0.1",
-  "description": "A Node.js mouse jiggler written in javascript\u001b[D\u001b[C",
+  "description": "A mouse jiggler written in javascript to move your mouse and the computer doesn't fall asleep.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
