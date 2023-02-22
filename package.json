@@ -1,6 +1,6 @@
 {
   "name": "mousejigglerjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js mouse jiggler written in javascript\u001b[D\u001b[C",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,8 @@
     "Nut.js",
     "mouse",
     "jiggler",
-    "javascript"
+    "javascript",
+    "mover"
   ],
   "author": "Lídio Gomes",
   "license": "ISC",
