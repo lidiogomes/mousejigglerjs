@@ -1,7 +1,7 @@
 {
   "name": "mousejigglerjs",
   "version": "1.0.1",
-  "description": "A mouse jiggler written in javascript to move your mouse and the computer doesn't fall asleep.",
+  "description": "A CLI mouse jiggler written in javascript to move your mouse and the computer doesn't fall asleep.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,8 @@
     "mouse",
     "jiggler",
     "javascript",
-    "mover"
+    "mover",
+    "cli"
   ],
   "author": "Lídio Gomes",
   "license": "ISC",
