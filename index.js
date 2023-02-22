@@ -1,6 +1,6 @@
-":" //#;exec /usr/bin/env node --input-type=module - "$@" < "$0"
-import figlet from 'figlet';
-import { mouse, straightTo, Point, screen } from '@nut-tree/nut-js';
+#!/usr/bin/env node
+import figlet from './node_modules/figlet/lib/node-figlet.js';
+import { mouse, straightTo, Point, screen } from './node_modules/@nut-tree/nut-js/dist/index.js';
 import { logoOff, speed } from './lib/initParams.js'
 
 (async () => {
@@ -9,7 +9,7 @@ import { logoOff, speed } from './lib/initParams.js'
     if (!logoOff) {
 
         console.log(figlet.textSync('MouseJigglerJS'));
-        console.log(`Speed: ${speed}`)
+        console.log(`Speed: ${speed}ms`)
         
     }
 
